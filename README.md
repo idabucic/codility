@@ -1,29 +1,12 @@
-# README #
+# CODILITY #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+These are my Java solution to tasks for Codility [lessons](https://codility.com/programmers/lessons/). 
 
 ### What is this repository for? ###
 
 * Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Version 1.0
+* [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
+* [Euclidean algorithm](https://codility.com/programmers/lessons/10)
+* [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
