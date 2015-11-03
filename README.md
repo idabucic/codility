@@ -1,8 +1,8 @@
 # CODILITY #
 
-These are my Java solution to tasks for Codility [lessons](https://codility.com/programmers/lessons/). 
+These are my **Java** solutions to **Codility** [lessons](https://codility.com/programmers/lessons/) tasks. 
 
-### What is this repository for? ###
+Follow the lesson link to get the task descriptions.
 
 * [Time Complexity](https://codility.com/programmers/lessons/1)
 * [Counting Elements](https://codility.com/programmers/lessons/2)
