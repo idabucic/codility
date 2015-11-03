@@ -4,9 +4,6 @@ These are my Java solution to tasks for Codility [lessons](https://codility.com/
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version 1.0
-
 * [Time Complexity](https://codility.com/programmers/lessons/1)
 * [Counting Elements](https://codility.com/programmers/lessons/2)
 * [Prefix Sums](https://codility.com/programmers/lessons/3)
