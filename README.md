@@ -1,6 +1,6 @@
 # CODILITY #
 
-These are my **Java** solutions to **Codility** [lessons](https://codility.com/programmers/lessons/) tasks. 
+These are my **Java** solutions to **Codility** [lessons](https://codility.com/programmers/lessons/) tasks.
 I took these lessons to improve my coding skills and refresh my knowledge on algorithms. 
 
 Follow the lesson link to get the task descriptions (Copyright 2009–2015 by Codility Limited).
@@ -68,4 +68,3 @@ You can run the solutions by running the test classes (JUnit 4).
 	*[OddOccurrencesInArray](/src/com/hr/ida/codility/lessons/lesson99/OddOccurrencesInArray.java)
 	*[StrSymmetryPoint](/src/com/hr/ida/codility/lessons/lesson99/StrSymmetryPoint.java)
 	*[TreeHeight](/src/com/hr/ida/codility/lessons/lesson99/TreeHeight.java)
-	
