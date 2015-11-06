@@ -5,7 +5,7 @@ These are my **Java** solutions to **Codility** [lessons](https://codility.com/p
 Follow the lesson link to get the task descriptions.
 
 * [Time Complexity](https://codility.com/programmers/lessons/1)
->*[PermMissingElem](/src/com/hr/ida/codility/lessons/lesson1/PermMissingElem.java)
+>[PermMissingElem](/src/com/hr/ida/codility/lessons/lesson1/PermMissingElem.java)
 * [Counting Elements](https://codility.com/programmers/lessons/2)
 * [Prefix Sums](https://codility.com/programmers/lessons/3)
 * [Sorting](https://codility.com/programmers/lessons/4)
