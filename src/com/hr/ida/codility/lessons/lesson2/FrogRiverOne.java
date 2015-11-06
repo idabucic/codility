@@ -3,6 +3,7 @@ package com.hr.ida.codility.lessons.lesson2;
 import java.util.Set;
 import java.util.HashSet;
 
+//Counting Elements
 public class FrogRiverOne {
 	public int solution(int X, int[] A) {
 		Set<Integer> s = new HashSet<Integer>();

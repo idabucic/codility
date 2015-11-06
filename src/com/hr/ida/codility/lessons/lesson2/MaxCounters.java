@@ -2,6 +2,7 @@ package com.hr.ida.codility.lessons.lesson2;
 
 import java.util.Arrays;
 
+//Counting Elements
 public class MaxCounters {
 
 	// 100% 

@@ -1,5 +1,6 @@
 package com.hr.ida.codility.lessons.lesson2;
 
+//Counting Elements
 public class MissingInteger {
 	
 	public int solution(int[] A) {
